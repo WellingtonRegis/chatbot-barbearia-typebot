@@ -40,7 +40,7 @@ O fluxo do chatbot foi estruturado nas seguintes etapas lógicas:
 ---
 
 ## 📂 Arquivos do Projeto
-* [`/json/prototipo-pierre.json`](./json/prototipo-pierre.json): O código-fonte estruturado do fluxo exportado do Typebot, permitindo a importação e visualização completa da árvore de decisão.
+* [`/json/prototipo-barbearia.json`](./json/prototipo-barbearia.json): O código-fonte estruturado do fluxo exportado do Typebot, permitindo a importação e visualização completa da árvore de decisão.
 
 ---
 
