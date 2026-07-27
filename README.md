@@ -45,5 +45,5 @@ O fluxo do chatbot foi estruturado nas seguintes etapas lógicas:
 ---
 
 ## 👤 Autor
-Desenvolvido por **[Seu Nome]**.  
+Desenvolvido por Wellington Regis.  
 📫 Entre em contato via [Seu LinkedIn] ou [Seu E-mail].
